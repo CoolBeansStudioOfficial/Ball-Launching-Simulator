@@ -1,5 +1,5 @@
 # Ball-Launching-Simulator
-A small but fun simulator for shooting balls at things made in Unity 6 Preview and using the new 2D Universal Graphics Pipeline
+A small but fun simulator for shooting balls at things made in Unity 6 Preview and using the new 2D Universal Graphics Pipeline. You just drag the ball and let it go to hit the target.
 
 # How to Play:
 1. Download the .zip file and extract it
